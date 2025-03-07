@@ -1,14 +1,7 @@
 <h1 align="center">Nice to see you here! 👀 Im Tazkie</h1>
 <h3 align="center">A passionate frontend, mobile & game developer from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ijtct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijtct" height="30" width="40" /></a>
-<a href="https://instagram.com/ijtct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ijtct" height="30" width="40" /></a>
-</p>
-
-
-<p align="left">Project:</p>
+<p align="left"><b>Project:</b></p>
 
 ###
 
@@ -26,7 +19,7 @@
 
 ###
 
-<p align="left">Database:</p>
+<p align="left"><b>Database:</b></p>
 
 ###
 
@@ -42,7 +35,7 @@
 
 ###
 
-<p align="left">Language:</p>
+<p align="left"><b>Language:</b></p>
 
 ###
 
