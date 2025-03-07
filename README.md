@@ -1,4 +1,4 @@
-<h1 align="center">Nice to see you here! 👀 Tazkie</h1>
+<h1 align="center">Nice to see you here! 👀 Im Tazkie</h1>
 <h3 align="center">A passionate frontend developer & game developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
