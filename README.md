@@ -1,5 +1,5 @@
-<h1 align="center">Nice to see you here! 👀 Im Tazkie</h1>
-<h3 align="center">A passionate frontend, mobile & game developer from Indonesia</h3>
+<h1 align="center">Nice to see you here! 👀</h1>
+<h3 align="center">Focusing on game and web development.</h3>
 
 <p align="left"><b>Project:</b></p>
 
