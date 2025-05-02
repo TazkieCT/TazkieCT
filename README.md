@@ -1,5 +1,4 @@
 <h1 align="center">Nice to see you here! 👀</h1>
-<h3 align="center">Focusing on game and web development.</h3>
 
 <p align="left"><b>Project:</b></p>
 
