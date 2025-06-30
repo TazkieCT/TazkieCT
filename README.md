@@ -1,6 +1,6 @@
 <h1 align="center">Nice to see you here! 👀</h1>
 
-<p align="left"><b>Project:</b></p>
+<p align="left"><b>Project/Framework:</b></p>
 
 ###
 
