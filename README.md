@@ -57,4 +57,4 @@
 </div>
 
 ###
-![TazkieCT's Stats](https://github-readme-stats.vercel.app/api?username=TazkieCT&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![TazkieCT's Stats](https://github-readme-stats.vercel.app/api?username=TazkieCT&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
